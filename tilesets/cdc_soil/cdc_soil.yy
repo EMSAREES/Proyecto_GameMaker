@@ -1,0 +1,50 @@
+{
+  "$GMTileSet":"",
+  "%Name":"cdc_soil",
+  "autoTileSets":[
+    {"$GMAutoTileSet":"","%Name":"autotile_1","closed_edge":false,"name":"autotile_1","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[6,7,8,9,10,11,0,0,12,13,14,15,16,17,0,0,],},
+    {"$GMAutoTileSet":"","%Name":"autotile_2","closed_edge":false,"name":"autotile_2","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[18,19,20,21,22,23,0,0,24,25,26,27,28,29,0,0,],},
+    {"$GMAutoTileSet":"","%Name":"autotile_3","closed_edge":false,"name":"autotile_3","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[30,31,32,33,34,35,52,52,36,37,38,39,40,41,52,52,],},
+    {"$GMAutoTileSet":"","%Name":"autotile_4","closed_edge":false,"name":"autotile_4","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[42,43,44,45,46,47,53,53,48,49,50,51,52,53,53,53,],},
+  ],
+  "macroPageTiles":{
+    "SerialiseHeight":0,
+    "SerialiseWidth":0,
+    "TileSerialiseData":[],
+  },
+  "name":"cdc_soil",
+  "out_columns":7,
+  "out_tilehborder":2,
+  "out_tilevborder":0,
+  "parent":{
+    "name":"Conjuntos de casillas",
+    "path":"folders/Conjuntos de casillas.yy",
+  },
+  "resourceType":"GMTileSet",
+  "resourceVersion":"2.0",
+  "spriteId":{
+    "name":"spr_soil",
+    "path":"sprites/spr_soil/spr_soil.yy",
+  },
+  "spriteNoExport":false,
+  "textureGroupId":{
+    "name":"Default",
+    "path":"texturegroups/Default",
+  },
+  "tileAnimation":{
+    "FrameData":[
+      0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,
+      37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,
+    ],
+    "SerialiseFrameCount":1,
+  },
+  "tileAnimationFrames":[],
+  "tileAnimationSpeed":15.0,
+  "tileHeight":16,
+  "tilehsep":0,
+  "tilevsep":0,
+  "tileWidth":16,
+  "tilexoff":0,
+  "tileyoff":0,
+  "tile_count":54,
+}
